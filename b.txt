@@ -1,1 +1,2 @@
 1st line
+b.txt 1st line
